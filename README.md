@@ -1,2 +1,2 @@
-# Games-console-commands
+# Games console commands
 # All console commands of these games
