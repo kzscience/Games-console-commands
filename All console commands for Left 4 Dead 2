@@ -40,8 +40,6 @@
 +moveup
 +posedebug // Turn on pose debugger or add ents to pose debugger UI
 +reload
-
-
 +right
 +score
 +showbudget
